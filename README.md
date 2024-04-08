@@ -1,1 +1,1 @@
-# Day-50-Home-renovation-planner-with-design-visualization
+# Home-renovation-planner-with-design-visualization
